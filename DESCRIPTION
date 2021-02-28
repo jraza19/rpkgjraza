@@ -20,3 +20,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     forcats
+URL: https://github.com/jraza19/rpkgjraza
+BugReports: https://github.com/jraza19/rpkgjraza/issues
