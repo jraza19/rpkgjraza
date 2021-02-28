@@ -1,15 +1,16 @@
 Package: rpkgjraza
-Title: What the Package Does (One Line, Title Case)
+Title: Make Factors Less Aggravating
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Javairia",
+           family = "Raza",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "jr.jem19@gmail.com")
+Description: Factors have driven people to extreme measure, like ordering custom
+            conference ribbons and laptop stickets to express how HELLNO we feel
+            about stringAsFactors. And yet, sometimes we need them. Can they be 
+            made less maddening? Let's find out.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
